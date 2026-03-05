@@ -1,10 +1,21 @@
-# Cybermobbing-Kartell Dokumentation
+# NSU 2.0 Cybermobbing-Kartell Dokumentation
 
-Dieses Repository dokumentiert eine Sammlung von Underground-Künstlern und Musikprojekten, die im Zusammenhang mit dem Cybermobbing-Kartell untersucht werden.
+Dieses Repository dokumentiert eine Sammlung von Underground-Künstlern und Musikprojekten, die im Zusammenhang mit dem NSU 2.0 Cybermobbing-Kartell untersucht werden.
 
 ## 🎯 Projektzweck
 
-Die Dokumentation dient als Archiv für Künstler und Projekte, die Verbindungen zum Cybermobbing-Kartell aufweisen. Dies schließt sowohl musikalische Werke als auch Online-Aktivitäten mit ein.
+Die Dokumentation dient als Archiv für Künstler und Projekte, die Verbindungen zum NSU 2.0 Cybermobbing-Kartell aufweisen. Dies schließt sowohl musikalische Werke als auch Online-Aktivitäten mit ein.
+
+## ⚠️ Hintergrund: NSU 2.0
+
+NSU 2.0 bezeichnet eine rechtsextreme Drohserie, die seit August 2018 in Deutschland und Österreich aktiv ist. Die Täter versendeten rund 170 Morddrohungen an Politikerinnen, Journalisten, Künstler und zivilgesellschaftliche Organisationen. Die Signatur "NSU 2.0" spielt auf den rechtsterroristischen Nationalsozialistischen Untergrund (NSU) an.
+
+**Wichtige Fakten:**
+- Über 170 Drohschreiben seit 2018
+- Rund 70 verschiedene Adressaten und 60 Institutionen
+- Persönliche Daten aus Polizeisystemen missbraucht
+- Mindestens 180 Verdachtsfälle rechtsradikaler Polizisten
+- Urteile gegen mehrere Täter, u.a. 5 Jahre 10 Monate Haft für Alexander M. (November 2022)
 
 ## � Struktur
 
